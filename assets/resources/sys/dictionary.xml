@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <key>MultiCharacter</key>
+    <dict>
+      
+    	<key>title</key>
+      	<string>Dungeon Of Mandom</string>
+
+		<key>title2</key>
+      	<string>纯爷们地下城</string>
+		
+		<key>killer</key>
+      	<string>斩首剑：选择一种怪物秒杀</string>
+		
+		<key>maxPlayer</key>
+      	<string>2</string>
+		
+		<monsterName>
+		
+			<key>m1</key>
+			<string>哥布林</string>
+			
+			<key>m2</key>
+			<string>骷髅兵</string>
+			
+			<key>m3</key>
+			<string>兽人</string>
+			
+			<key>m4</key>
+			<string>吸血鬼</string>
+			
+			<key>m5</key>
+			<string>魔像</string>
+			
+			<key>m6</key>
+			<string>巫妖</string>
+			
+			<key>m7</key>
+			<string>恶魔</string>
+			
+			<key>m9</key>
+			<string>巨龙</string>
+		
+		</monsterName>
+		
+		<itemName>
+		
+			<key>item0</key>
+			<string>盾</string>
+			
+			<key>item1</key>
+			<string>火炬</string>
+			
+			<key>item2</key>
+			<string>龙枪</string>
+			
+			<key>item3</key>
+			<string>圣杯</string>
+			
+			<key>item4</key>
+			<string>锁甲</string>
+			
+			<key>item5</key>
+			<string>斩首剑</string>
+		
+		</itemName>
+      
+		<clamor>
+		
+			<key>clamor1</key>
+			<string>这样的怪给我再来一打！</string>
+			
+			<key>clamor2</key>
+			<string>这点数量还不够一顿早饭！</string>
+			
+			<key>clamor3</key>
+			<string>看我放个大家伙进去！</string>
+		
+		</clamor>
+		
+		
+		<discard>
+		
+			<key>discard1</key>
+			<string>我不要</string>
+			
+			<key>discard2</key>
+			<string>也能打！</string>
+			
+			<key>discard3</key>
+			<string>这有什么，我也不要！</string>
+		
+		</discard>
+		
+		<quit>
+		
+			<key>quit1</key>
+			<string>你行你上！</string>
+			
+			<key>quit2</key>
+			<string>Byebye了您呐</string>
+			
+			<key>quit3</key>
+			<string>我家有急事，先回了哈~</string>
+		
+		</quit>
+		
+	</dict>
+</plist>

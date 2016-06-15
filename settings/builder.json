@@ -1,0 +1,13 @@
+{
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.Dungeon",
+  "startScene": "a7a47c47-4c5a-474a-99a1-1c4f44aeb57c",
+  "title": "DungeonOfMandom",
+  "webOrientation": "auto"
+}
