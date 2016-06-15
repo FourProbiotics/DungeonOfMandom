@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# hello-world
-Hello world new project template.
+纯爷们与地下城
 =======
-"# DungeonOfMandom" 
-# DungeonOfMandom
->>>>>>> origin/master
+一个日式桌游的联机版，用来熟悉ccc的用法
+贴个游戏规则http://tieba.baidu.com/p/3632512818
